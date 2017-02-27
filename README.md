@@ -1,0 +1,1 @@
+This is the Foodie app for Android
